@@ -20,7 +20,7 @@ public void setHobby(String hobby) {
 	   System.out.println("student name "+ name);
 	   System.out.println("student intrestedCourse "+ intrestedCourse);
 	   System.out.println("student hobby "+ hobby);
-  
+   
    }
   
 }
